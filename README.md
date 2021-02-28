@@ -1,10 +1,9 @@
 # ![Python Snippets](./logo.png "Python Snippets")
-
-:snake: Python snippets of examples, to learn things and to make task easier.
+These Snippets can make your life a lot easier than expected, use it wisely.
 
 ---
 
-## Snippets
+## Snippets TO LEARN
 
 - [string_import.py](string_import.py) example to show import module from string
 - [classtools.py](classtools.py) assorted class utilities and tools
@@ -26,6 +25,7 @@
 - [listtree.py](listtree.py) Trace the entire class and all its object's attrs at and above self
 - [mapattrs.py](mapattrs.py) Map all attributes on or inherited by an
 instance to the instance or class from which they are inherited.
+
 
 ---
 

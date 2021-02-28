@@ -1,6 +1,6 @@
 #!python
 """
-mydir.py: a module that lists the namespaces of other module
+mydir.py: a module that list the namespaces of other modules
 """
 from __future__ import print_function
 
@@ -25,7 +25,7 @@ def listing(module, verbose=True):
 
     if verbose:
         print(sepline)
-        print(module.__name__, 'has %d names' % count)
+        print(module.__name__, 'has following %d names' % count)
         print(sepline)
 
 if __name__ == '__main__':
